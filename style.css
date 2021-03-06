@@ -1,0 +1,40 @@
+.big{
+    color: blue;
+}
+.container div{
+    border: solid green 1px;
+    font-weight: bold;
+}
+p{
+    background-color: yellow;
+}
+.b329{
+    font-weight: bold;
+}
+.chbgc p{
+    width: 300px;
+    border: solid gray thin;
+    background-color: whitesmoke;
+}
+
+.chbgc p:hover{
+background-color: lightgreen;
+}
+
+.doboz20 div{
+    width: 500px;
+    border: solid blue 1px;
+    padding: 5px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.doboz20 div div{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
+
+.d10bgr{
+    background-color: red;
+}
